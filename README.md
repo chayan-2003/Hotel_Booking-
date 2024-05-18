@@ -15,7 +15,7 @@ This is a Hotel Booking Application built using the MERN stack (MongoDB, Express
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JSON Web Tokens (JWT)
-- **Styling:** CSS, Bootstrap
+- **Styling:** CSS, Tailwind 
 
 ## Installation
 
